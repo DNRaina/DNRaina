@@ -1,7 +1,7 @@
 # Hi there, I'm Dhruv Narayan Raina 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal3ZwICFW/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/O0oQygeklvnX2/giphy.gif" width="480" height="350" />
 </p>
 
 ## 👨‍💻 About Me
@@ -13,6 +13,9 @@
   <img src="https://img.icons8.com/color/452/python--v1.png" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60" height="60"/>
 </p>
 
 ## 🛠️ Projects
@@ -25,7 +28,7 @@
 - 💞️ I’m looking to collaborate on Python backend projects and AI/ML initiatives.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="480" height="298" />
 </p>
 
 ## 💼 Experience
@@ -34,13 +37,12 @@
 
 ## 📫 Get in Touch
 - 📧 Email: [dhruvnarayanraina@gmail.com](mailto:dhruvnarayanraina@gmail.com)
-- 📸 Instagram: [@dhruvnarayanraina](https://www.instagram.com/dhruvnarayanraina/)
 - 💼 LinkedIn: [Dhruv Narayan Raina](https://www.linkedin.com/in/dhruvnarayanraina/)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="150" />
+  <img src="https://media.giphy.com/media/AtemeKRsPRVESJ8zRq/giphy.gif" width="480" height="360" />
 </p>
 
 😊 Feel free to reach out to me for collaborations or just to connect!
