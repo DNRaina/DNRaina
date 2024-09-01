@@ -1,7 +1,7 @@
 # Hi there, I'm Dhruv Narayan Raina 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q56ZI04r6CakM/giphy.gif" width="100" height="100" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3ZwICFW/giphy.gif" width="200"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -25,7 +25,7 @@
 - 💞️ I’m looking to collaborate on Python backend projects and AI/ML initiatives.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jRfTEZgHnmWXBtscIJ/giphy.gif" width="200" height="100" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </p>
 
 ## 💼 Experience
@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="150" height="150" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="150" />
 </p>
 
 😊 Feel free to reach out to me for collaborations or just to connect!
