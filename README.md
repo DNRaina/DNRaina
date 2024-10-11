@@ -16,7 +16,10 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60" height="60"/>
+  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="60" height="60"/>
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" width="60" height="60"/>
 </p>
+
 
 ## 🛠️ Projects
 - **🍎 CNN Fruits Classifier**: Achieved 95% accuracy in classifying fruit images using TensorFlow.
