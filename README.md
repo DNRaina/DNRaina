@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 - 🎓 I’m a B.Tech student specializing in AI and Data Science at GGSIPU, Delhi.
 - 🔍 I’m passionate about Machine Learning, AI, Python, and Database Management.
-- 🚀 Currently, I'm diving deeper into Advanced Python and expanding my knowledge in AI/ML.
+- 🚀 Currently, I'm diving deeper into LLMs, KBs and LCMs.
 
 <p align="center">
   <img src="https://img.icons8.com/color/452/python--v1.png" width="60" height="60"/>
@@ -27,7 +27,6 @@
 - **💬 YouTube Comment Sentiment Analysis**: Conducted sentiment analysis on YouTube comments using transformer models.
 
 ## 🌱 Learning & Collaboration
-- 🌱 I’m currently mastering Advanced Python.
 - 💞️ I’m looking to collaborate on Python backend projects and AI/ML initiatives.
 
 <p align="center">
