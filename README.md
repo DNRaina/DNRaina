@@ -39,10 +39,9 @@
 - 💞️ I’m looking to collaborate on **Generative AI**, **RAG pipelines**, and **Computer Vision** research.
 - 🏆 **Achievements**: CUET 99.99%ile, Hackathon Judge at TechInertia, Organizer of Bit-Wars.
 
-<p align="center">
+<<p align="center">
   <img src="https://i.giphy.com/AtemeKRsPRVESJ8zRq.gif" width="480" height="350" />
 </p>
-
 
 ## 📫 Get in Touch
 - 📧 Email: [dhruvnarayanraina@gmail.com](mailto:dhruvnarayanraina@gmail.com)
