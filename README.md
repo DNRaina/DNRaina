@@ -43,10 +43,13 @@
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="480" height="298" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/AtemeKRsPRVESJ8zRq/giphy.gif" width="480" height="298" />
+</p>
+
+
 ## 📫 Get in Touch
 - 📧 Email: [dhruvnarayanraina@gmail.com](mailto:dhruvnarayanraina@gmail.com)
 - 💼 LinkedIn: [Dhruv Narayan Raina](https://www.linkedin.com/in/dhruvnarayanraina/)
-
-<iframe src="https://giphy.com/embed/AtemeKRsPRVESJ8zRq/video" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/AtemeKRsPRVESJ8zRq">via GIPHY</a></p>
 
 😊 Feel free to reach out to me for collaborations or just to connect!
