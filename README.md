@@ -47,11 +47,6 @@
 - 📧 Email: [dhruvnarayanraina@gmail.com](mailto:dhruvnarayanraina@gmail.com)
 - 💼 LinkedIn: [Dhruv Narayan Raina](https://www.linkedin.com/in/dhruvnarayanraina/)
 
----
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ5MHBteDBrYmVidzRod2twYzEydzF6bW1yZTc4Ymc5eG51MWxkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/AtemeKRsPRVESJ8zRq/giphy.gif" width="480" height="360" />
-  
-</p>
+<iframe src="https://giphy.com/embed/AtemeKRsPRVESJ8zRq/video" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/AtemeKRsPRVESJ8zRq">via GIPHY</a></p>
 
 😊 Feel free to reach out to me for collaborations or just to connect!
