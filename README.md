@@ -40,7 +40,7 @@
 - 🏆 **Achievements**: CUET 99.99%ile, Hackathon Judge at TechInertia, Organizer of Bit-Wars.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/AtemeKRsPRVESJ8zRq/giphy.gif" width="480" height="298" />
+  <img src="https://media.giphy.com/media/AtemeKRsPRVESJ8zRq/giphy.gif" width="480" height="350" />
 </p>
 
 
