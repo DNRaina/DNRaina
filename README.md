@@ -6,7 +6,7 @@
 
 ## About Me
 - I am the Founder and Principal AI Architect at Valay AI, specializing in Agentic workflows, custom LLM pipelines, and enterprise AI transformations.
-- B.Tech in AI and Data Science from GGSIPU, Delhi (2022-2026, GPA: 9.10/10.00).
+- B.Tech in AI and Data Science from GGSIPU, Delhi (2022-2026, GPA: 9.25/10.00).
 - Ex-Google Student Ambassador, promoting SOTA products like Gemini and Veo.
 - Ex-Research Intern at the University of Glasgow, focused on reducing the carbon impact of LLMs and Computer Vision models.
 - President and Founder of Catalyst GenAI Club.
