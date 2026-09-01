@@ -1,74 +1,191 @@
-# Hi there, I'm Dhruv Narayan Raina
+
+# Hi there, I'm Dhruv Narayan Raina 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/O0oQygeklvnX2/giphy.gif" width="480" height="350" />
 </p>
 
-## About Me
-- I am the Founder and Principal AI Architect at Valay AI, specializing in Agentic workflows, custom LLM pipelines, and enterprise AI transformations.
-- B.Tech in AI and Data Science from GGSIPU, Delhi (2022-2026, GPA: 9.25/10.00).
-- Ex-Google Student Ambassador, promoting SOTA products like Gemini and Veo.
-- Ex-Research Intern at the University of Glasgow, focused on reducing the carbon impact of LLMs and Computer Vision models.
-- President and Founder of Catalyst GenAI Club.
+<p align="center">
+  <b>AI/ML Engineer • LLM Systems • Inference Optimization • Production AI</b>
+</p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/452/python--v1.png" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60" height="60"/>
-  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="60" height="60"/>
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" width="60" height="60"/>
+  <a href="mailto:dhruvnarayanraina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruvnarayanraina/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/DNRaina">
+    <img src="https://img.shields.io/badge/GitHub-DNRaina-black?style=flat-square&logo=github" />
+  </a>
+</p>
+
+## About Me
+
+I am an AI/ML Engineer focused on building, optimizing, and deploying production-grade AI systems. My work spans system architecture, LLM applications, retrieval-augmented generation, computer vision, speech AI, inference optimization, and cloud deployment.
+
+- B.Tech in Artificial Intelligence & Data Science from GGSIPU, Delhi
+- GPA: **9.25/10.00**
+- Experience with LLM systems, RAG pipelines, multi-agent workflows, speech AI, and computer vision
+- Hands-on experience optimizing GPU inference using **CUDA** and **TensorRT**
+- Google Student Ambassador for Gemini, Veo, and Google campaigns
+- AI/ML Research Intern at the University of Glasgow
+- President and Founder of the Catalyst GenAI Club
+- Hackathon judge, mentor, speaker, and organizer
+
+## Technical Skills
+
+### Programming
+`Python` `C` `Java` `R`
+
+### Machine Learning & Deep Learning
+`PyTorch` `TensorFlow` `Keras` `CUDA` `TensorRT`
+
+### AI, LLMs & Generative AI
+`LangGraph` `LangChain` `LlamaIndex` `CrewAI` `AutoGen` `RAG` `FAISS` `Hugging Face`
+
+### Cloud & DevOps
+`AWS` `GCP` `Docker` `FastAPI` `Git` `CI/CD`
+
+### Data & Tools
+`Pandas` `NumPy` `Excel` `MySQL` `Oracle` `Power BI` `Matplotlib` `Jupyter`
+
+<p align="center">
+  <img src="https://img.icons8.com/color/452/python--v1.png" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="60" height="60" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="60" />
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" width="60" height="60" />
+  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="60" height="60" />
 </p>
 
 ## Professional Experience
 
-### Valay AI
-**Founder & Principal AI Architect** (November 2025 - Present)
-- Founded an independent AI consultancy specializing in Agentic workflows, custom LLM pipelines, and end-to-end enterprise AI transformations.
-- Designed scalable AI transformation strategies and custom architectures for end-to-end business overhauls, projecting a 3-6 month ROI.
-- **Apartment9 India (Client Engagement, March 2026 - April 2026)**: Engineered core AI architecture and established robust data pipelines, standardizing production workflows to reduce production costs by 20%+ and turnaround time by 15%.
-- **ShunyaLabs AI (Client Engagement, November 2025 - March 2026)**: Optimized ASR, TTS, and STT stacks, reducing system latency by 30%+ and inference time by 12%+. Scaled and managed 3 concurrent production servers across AWS and GCP.
+### VALAY
+**Contract AI/ML Engineer**  
+*Delhi, India · April 2026 – Present*
 
-### Internships & Roles
-- **Google (Student Ambassador, August 2025 - November 2025)**: Promoted SOTA products such as Gemini and Veo, and oversaw Google campaigns.
-- **University of Glasgow (AI - ML Research Intern, June 2025 - August 2025)**: Collaborated with PhD students on research focused on reducing the carbon footprint of LLMs and Computer Vision models.
-- **Lenskart (TVC@FORMI) (AI - ML Solutions Developer, April 2025 - May 2025)**: Developed a CV pipeline for chatbot-integrated claim approvals with 95% accuracy.
-- **NativeByte (SDE - LLM Intern, September 2024 - October 2024)**: Built core embeddings creation and retrieval components for a RAG system using FAISS, reducing load times by over 40%.
-- **CSRBOX - IBM SkillsBuild (Artificial Intelligence Intern, July 2024 - August 2024)**: Leveraged IBM Watson models to create chatbots.
-- **Spacenos (Tech Analyst Intern, June 2024 - August 2024)**: Handled data analysis and data science tasks, increasing productivity by over 20%.
+- Work independently across AI/ML system architecture, inference optimization, and production deployment.
+- Design and implement scalable AI systems for real-world business and engineering use cases.
+- Develop production workflows spanning model serving, data pipelines, cloud infrastructure, and deployment.
 
-## Projects
-- **Voice Model Cloud Orchestration**: Containerized and orchestrated low-latency voice AI models using Docker and FastAPI. Deployed a scalable AWS architecture with auto-scaling to support real-time voice streaming.
-- **Autonomous Research Orchestrator**: Engineered a multi-agent research system using LangGraph to decompose complex queries, execute iterative web searches, and synthesize results through stateful workflows.
-- **Personalized Knowledge-Base Email Assistant**: Built a privacy-focused RAG assistant using LlamaIndex and local vector storage to retrieve internal documentation and generate context-aware email drafts.
-- **RAG-Powered Document Retrieval Engine**: Developed a high-performance document retrieval pipeline using FAISS and vector embeddings, enabling efficient semantic search and context injection.
-- **Medical Imaging Analysis (XAI & CNN)**: Developed CNN-based classifiers for Alzheimer's and lung disease detection, and applied Grad-CAM to generate visual explanations for model predictions.
-- **Transformer-Based Translation Engine**: Built an English-to-Hindi sequence-to-sequence Transformer from scratch using the Samantar dataset.
+### Apartment9 India
+**AI Team Lead & Freelance Consultant**  
+*Delhi, India · March 2026 – April 2026*
 
-## Achievements & Certifications
-- GATE (ST) 2025 - AIR 385
-- GATE (DA) 2025 - AIR 8K
-- CUET - 99.99 percentile
-- JEE Mains 2022 - 90 percentile
-- Evaluating LLMs with Opik (Comet) - July 2025
-- Applied Data Science with Python Level 2 (IBM) - September 2023
+- Architected AI systems and robust data pipelines for production workflows.
+- Standardized operational processes to reduce production costs by **20%+**.
+- Improved turnaround time by **15%** through workflow and infrastructure optimization.
+
+### ShunyaLabs AI
+**Applied Scientist – Data Science, Contract**  
+*November 2025 – March 2026*
+
+- Orchestrated ASR, TTS, and STT inference systems using NVIDIA GPUs, CUDA, and TensorRT.
+- Optimized NVIDIA Parakeet ASR inference, reducing latency by **30%+** and inference time by **12%**.
+- Engineered Docker and CI/CD deployment pipelines across **three AWS/GCP production servers**.
+- Worked on scalable and low-latency speech AI infrastructure.
+
+## Internships
+
+### University of Glasgow, Scotland
+**AI/ML Research Intern**  
+*June 2025 – August 2025*
+
+- Supported research focused on reducing the carbon footprint of large language model and computer vision workloads.
+- Investigated efficient approaches for developing and deploying more sustainable AI systems.
+
+### Lenskart — TVC@FORMI
+**AI/ML Solutions Developer**  
+*April 2025 – May 2025*
+
+- Designed a computer vision pipeline for chatbot-integrated insurance claim approvals.
+- Achieved **95% accuracy** on the claim approval workflow.
+
+### NativeByte
+**SDE — LLM Intern**  
+*September 2024 – October 2024*
+
+- Implemented the embedding generation and retrieval layer for a retrieval-augmented generation system.
+- Used FAISS for efficient vector search and semantic retrieval.
+- Reduced system load times by **40%+**.
+
+## Featured Projects
+
+### Voice Model Cloud Orchestration
+
+**Python · Docker · AWS · FastAPI**
+
+- Containerized and deployed low-latency voice AI models.
+- Built auto-scaling AWS infrastructure for real-time voice model streaming.
+- Designed production-ready services for scalable model inference.
+
+### Autonomous Research Orchestrator
+
+**Python · LangGraph · Tavily**
+
+- Engineered a stateful multi-agent research framework.
+- Implemented query decomposition, iterative web search, and report synthesis.
+- Designed workflows for coordinating specialized agents across complex research tasks.
+
+### Medical Imaging Analysis — XAI & CNN
+
+**PyTorch · TensorFlow · Grad-CAM**
+
+- Created CNN-based classifiers for Alzheimer’s disease and lung disease detection.
+- Applied Grad-CAM to generate visual explanations for model predictions.
+- Focused on improving the interpretability and transparency of medical AI systems.
+
+## Education
+
+### Guru Gobind Singh Indraprastha University
+**B.Tech — Artificial Intelligence & Data Science**  
+*Delhi, India · 2022 – 2026*
+
+- GPA: **9.25/10.00**
+
+### Kendriya Vidyalaya, Jammu
+**Class XII — CBSE**  
+*2021 – 2022*
+
+- Percentage: **92.2%**
+- Stream: PCM + Computer Science
+
+## Achievements
+
+- **GATE (ST) 2025:** AIR 385
+- **GATE (DA) 2025:** AIR 8K
+- **CUET:** 99.99 percentile
+- **JEE Mains 2022:** 90 percentile
+- **CBSE Class XII:** 92.2%
+
+## Courses & Certifications
+
+- Deep Learning Course — Scaler, July 2024
+- Generative AI with AWS — Udacity
+- Amazon AI/ML Scholar — 2024
+- Mastering the Art of Prompting — IBM, April 2024
+- Enterprise Data Science in Practice — IBM, May 2024
 
 ## Leadership & Community
-- SIH Evaluator 2025: Evaluated teams at the Smart India Hackathon.
-- Hackathon Judge: Judged 10+ hackathons across AI, software, and innovation tracks.
-- Mentor: Mentored 15+ teams across AI/ML programs and hackathons.
-- Speaker: Delivered 10+ technical sessions on AI, NLP, RAG, and emerging technologies.
-- Organizer & Host: Bit-Wars, a 36-hour hackathon with 200+ participants and 14 brand collaborations.
+
+- **Google Student Ambassador, India** — Promoted Gemini, Veo, and Google campaigns
+- **President & Founder** — Catalyst GenAI Club, JIMS
+- **SIH Evaluator 2025** — Smart India Hackathon
+- **Hackathon Judge** — Judged 10+ hackathons across AI, software, and innovation
+- **Mentor** — Mentored 15+ AI/ML teams across programs and hackathons
+- **Speaker** — Delivered 10+ sessions on AI, NLP, RAG, and emerging technologies
+- **Organizer & Host** — Bit-Wars, a 36-hour hackathon with 200+ participants and 14 brand collaborations
 
 <p align="center">
   <img src="https://i.giphy.com/AtemeKRsPRVESJ8zRq.gif" width="480" height="350" />
 </p>
 
-## Get in Touch
+## Let's Connect
+
+I am always open to conversations around AI/ML engineering, LLM applications, inference optimization, research, open-source projects, and technical collaborations.
+
 - Email: [dhruvnarayanraina@gmail.com](mailto:dhruvnarayanraina@gmail.com)
 - LinkedIn: [Dhruv Narayan Raina](https://www.linkedin.com/in/dhruvnarayanraina/)
 - GitHub: [DNRaina](https://github.com/DNRaina)
-
-Feel free to reach out to me for collaborations or just to connect!
